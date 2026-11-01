@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900">
+  <rect width="900" height="900" fill="#e9e3d7"/>
+  <circle cx="450" cy="390" r="205" fill="#d5c8b3"/>
+  <path d="M285 345h320v210c0 89-72 161-160 161h-0c-88 0-160-72-160-161V345Z" fill="#fcfbf7" stroke="#59654f" stroke-width="13"/>
+  <path d="M605 390h45c59 0 83 39 83 79s-24 79-83 79h-45" fill="none" stroke="#59654f" stroke-width="20"/>
+  <path d="M355 305c-27-45 23-61 0-105M445 305c-27-45 23-61 0-105M535 305c-27-45 23-61 0-105" fill="none" stroke="#b9825b" stroke-width="12" stroke-linecap="round"/>
+  <text x="450" y="810" fill="#59654f" font-family="Arial,sans-serif" font-size="28" letter-spacing="8" text-anchor="middle">TRIPLE L</text>
+</svg>
